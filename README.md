@@ -1,15 +1,16 @@
 # Wizards Performance App
 
-Link: https://wizards-performance-dashboard.herokuapp.com/
+App Link: https://wizards-performance-dashboard.herokuapp.com/
+Game Logs Link: 'https://www.foxsports.com/nba/washington-wizards-team-game-log'
 
 The purpose of this application is to automate key performance indicators for the Washington Wizards.
 
 **How it was built**
 
-1. Webscrape the data using Python's beautiful soup library from the link here 'https://www.foxsports.com/nba/washington-wizards-team-game-log'.
-2. Preprocess the data so for ease of use
-3. Develop key performance indicators
-4. Graph data using Plotly
-5. Create the application layout using Dash
-6. Build the application using Flask
-7. Deploy the application using Heroku
+1. Webscrape the data from the wizards game logs
+3. Preprocess the data so for ease of use
+4. Develop key performance indicators
+5. Graph data using Plotly
+6. Create the application layout using Dash
+7. Build the application using Flask
+8. Deploy the application using Heroku
