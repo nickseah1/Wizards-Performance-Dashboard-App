@@ -1,6 +1,7 @@
 # Wizards Performance App
 
 App Link: https://wizards-performance-dashboard.herokuapp.com/
+
 Game Logs Link: 'https://www.foxsports.com/nba/washington-wizards-team-game-log'
 
 The purpose of this application is to automate key performance indicators for the Washington Wizards.
