@@ -9,9 +9,9 @@ The purpose of this application is to automate key performance indicators for th
 **How it was built**
 
 1. Webscrape the data from the wizards game logs
-3. Preprocess the data so for ease of use
+3. Preprocess the data for ease of use
 4. Develop key performance indicators
-5. Graph data using Plotly
+5. Graph the data using Plotly
 6. Create the application layout using Dash
 7. Build the application using Flask
 8. Deploy the application using Heroku
